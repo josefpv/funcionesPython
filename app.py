@@ -10,7 +10,7 @@ while True:
 
         funcs.limpiaPantalla()
         [print(fila) for fila in funcs.creaMenu()]
-        opcionMenu = int(input("Seleccione una opcion del menu... "))
+        opcionMenu = int(input("Hola, seleccione una opcion del menu... "))
 
         if (opcionMenu) == 1:
 
